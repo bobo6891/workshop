@@ -8,12 +8,12 @@
 
 1 - Fork o repositório
 
-2 - Clone o repositório: 
+2 - Clone o repositório para seu computador
 ```sh
 $ git@github.com:pedropolisenso/workshop.git 
 ```
 
-3 - Entre na pasta do projeto:
+3 - Entre na pasta do projeto
 ```sh
 $ cd workshop
 ```
@@ -23,7 +23,7 @@ $ cd workshop
 npm start
 ```
 
-* O projeto estará rodando no endereço:
+* O projeto estará rodando no endereço
 ```sh
 http://localhost:3000
 ```
@@ -32,14 +32,14 @@ http://localhost:3000
 
 1 - Fork o repositório
 
-2 - Clone o repositório:
+2 - Clone o repositório
 ```sh
 $ git@github.com:pedropolisenso/workshop.git
 ```
 
-3 - Crie um novo branch com a nova feature:
+3 - Crie um branch com a nova feature:
 ```sh
-$ git checkout -b NOVO BRANCH
+$ git checkout -b [NOVO BRANCH]
 ```
 
 4 - Faça a melhoria, inserção ou alteração do Stack
@@ -52,4 +52,4 @@ $ git checkout -b NOVO BRANCH
 
 ### License
 
-[ISC](http://www.openbsd.org/policy.html)
+[ISC](http://www.openbsd.org/policy.html) - Workshop JavaScript with NodeJS
