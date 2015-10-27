@@ -1,0 +1,46 @@
+include templates/default
+block body
+	body
+	
+	block mensege
+		#ModalLoad
+			.load
+				img(src="public/image/loading.gif", width="64", alt="Loading")
+		
+		#HoldSuccess
+			.contentResult
+				.alert.alert-success#cadSuccess
+		
+		#HoldError
+			.contentResult
+				.alert.alert-danger#cadError
+		
+	block content
+		.content
+			h1 Dev Shop
+			h2 Add a developer
+			
+			#FormCart.form-group
+				.form-inline.form-group
+					input(type="text", class="form-control", placeholder="github username")
+					input(type="submit", class="btn btn-success", id="add", value="add")
+				
+			h2 Cart List
+			
+			#ProductsList
+				table.table.table-hover
+					thead
+						tr
+							th PHOTO
+							th USERNAME
+							th EMAIL
+							th PRICE
+							th FOLLOWERS
+							th LOCATION
+							th DELETE
+					tbody
+
+			.clear
+
+		block footer
+			include templates/script

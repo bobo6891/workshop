@@ -1,0 +1,29 @@
+{
+  "name": "workshop",
+  "version": "1.0.0",
+  "description": "Repository to workshop",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pedropolisenso/workshop.git"
+  },
+  "author": "Pedro Polisenso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedropolisenso/workshop/issues"
+  },
+  "homepage": "https://github.com/pedropolisenso/workshop",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "method-override": "^2.3.5",
+    "mongojs": "^1.4.1"
+  },
+  "devDependencies": {
+    "jade": "^1.11.0"
+  }
+}
