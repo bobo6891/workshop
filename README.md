@@ -46,10 +46,6 @@ $ git checkout -b [NOVO BRANCH]
 
 5 - Mande um Pull Request
 
-### Mantainer
+## License
 
-[Pedro Polisenso](https://github.com/pedropolisenso)
-
-### License
-
-[ISC](http://www.openbsd.org/policy.html) - Workshop JavaScript with NodeJS
+[ISC](http://www.openbsd.org/policy.html) - Workshop JavaScript com NodeJS
