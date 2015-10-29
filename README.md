@@ -18,7 +18,12 @@ $ git@github.com:pedropolisenso/workshop.git
 $ cd workshop
 ```
 
-4 - Inicie o projeto:
+4 - Instale as dependências:
+```sh
+npm install
+```
+
+5 - Inicie a aplicação:
 ```sh
 npm start
 ```
