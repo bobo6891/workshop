@@ -1,56 +1,55 @@
-# Workshop de JavaScript
+# Workshop de MERN - JavaScript
 
-> Repositório criado para documentar o stack a ser usado no workshop: JavaScript Client-side and Server-side with NodeJS.
+> MERN - MongoDB - Express - ReactJS - NodeJS
 
-- Version Beta: V0.0.1 =)
+É um workshop que estou propondo a todos aqueles que ainda não tem experiências com aplicações, totalmente, focadas em JavaScript. 
 
-## Uso
+Você já deve ter vivenciado ou já ouviu falar de diversas aplicações usando PHP, Python, Java, Ruby e etc. E o JavaScript vem conquistando seu espaço e garantindo confiança de muitas empresas ao ponto delas apostarem na linugagem e modificar toda sua arquitetura.
 
-1 - Fork o repositório
 
-2 - Clone o repositório para seu computador
-```sh
-$ git@github.com:pedropolisenso/workshop.git 
-```
+## Objetivo
 
-3 - Entre na pasta do projeto
-```sh
-$ cd workshop
-```
+Iremos criar uma aplicação bem simples de ser feita, porém com as funcionalidades de client-side e server-side usando apenas JavaScript como linguagem de programação. A ideia é criar um carrinho de compras com JavaScript.
 
-4 - Instale as dependências:
-```sh
-npm install
-```
 
-5 - Inicie a aplicação:
-```sh
-npm start
-```
+## O projeto
 
-* O projeto estará rodando no endereço
-```sh
-http://localhost:3000
-```
+> A galera vai aprender os seguintes itens:
 
-## Contribuir
+- Conhecer o [stack(estrutura)](install.md) do projeto
 
-1 - Fork o repositório
+- Criar uma API Rest
 
-2 - Clone o repositório
-```sh
-$ git@github.com:pedropolisenso/workshop.git
-```
+- Usar [MongoDB](https://www.mongodb.org/) para fazer a persistência de nossos dados
 
-3 - Crie um branch com a nova feature:
-```sh
-$ git checkout -b [NOVO BRANCH]
-```
+- Usar [Express](http://expressjs.com/pt-br/) para rotas otimizadas e auxiliar nossos requests
 
-4 - Faça a melhoria, inserção ou alteração do Stack
+- Usar [ReactJS](https://facebook.github.io/react/) para criar nossos componentes e gerar nossas ações
 
-5 - Mande um Pull Request
+- Usar [NodeJS]() como server/platform
 
-## License
 
-[ISC](http://www.openbsd.org/policy.html) - Workshop JavaScript com NodeJS
+## O Stack (estrutura do projeto)
+
+Este repositório serve, justamente, para manter um padrão de estrutura durante todo o workshop, até mesmo para facilitar em comunicação entre os alunos e auxiliar nas dicas e orientacões da aplicação. O stack é bem simples e composto de pastas e arquivos necessários para começar na aplicação.
+
+* /controller - local de seus controllers da aplicação, pois o react nao é MVC
+
+* /DB - local do arquivo JS para conexão com a base de dados
+
+* /model - local de seus models da aplicação, pois o react nao é MVC
+
+* /public - local dos arquivos de build, nunca mexa diretamente nele
+
+* /routes - local onde iremos definir nossas rotas
+
+* /views - local onde ficarão nossos componets React que serão renderizados
+
+* app.js - principal arquivo de configuração a ser lido pela aplicação.
+
+* O restante dos arquivos são de configurações e serão explicados no workshop para que serve.
+
+
+## O Instrutor
+
+Sou Pedro Polisenso, atualmente trabalho na B2W Digital no time de checkout como Software Developer. Nosso time é responsável pela parte de pagamento/validação de 4 plataformas (americanas.com - submarino - shoptime - soubarato) e aqui curtimos usar programação funcional com JavaScript =] [mains sobre mim](https://www.linkedin.com/in/pedropolisenso)
