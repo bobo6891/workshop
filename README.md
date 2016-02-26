@@ -52,4 +52,4 @@ Este repositório serve, justamente, para manter um padrão de estrutura durante
 
 ## O Instrutor
 
-Sou Pedro Polisenso, atualmente trabalho na B2W Digital no time de checkout como Software Developer. Nosso time é responsável pela parte de pagamento/validação de 4 plataformas (americanas.com - submarino - shoptime - soubarato) e aqui curtimos usar programação funcional com JavaScript =] [mains sobre mim](https://www.linkedin.com/in/pedropolisenso)
+Sou Pedro Polisenso, atualmente trabalho na B2W Digital no time de checkout como Software Developer. Nosso time é responsável pela parte de pagamento/validação de 4 plataformas (americanas.com - submarino - shoptime - soubarato) e aqui curtimos usar programação funcional com JavaScript =] [mais sobre mim](https://www.linkedin.com/in/pedropolisenso)
