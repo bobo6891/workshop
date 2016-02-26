@@ -4,12 +4,12 @@
 
 É um workshop que estou propondo a todos aqueles que ainda não tem experiências com aplicações, totalmente, focadas em JavaScript. 
 
-Você já deve ter vivenciado ou já ouviu falar de diversas aplicações usando PHP, Python, Java, Ruby e etc. E o JavaScript vem conquistando seu espaço e garantindo confiança de muitas empresas ao ponto delas apostarem na linugagem e modificar toda sua arquitetura.
+Você já deve ter vivenciado ou já ouviu falar de diversas aplicações usando PHP, Python, Java, Ruby e etc. E o JavaScript vem conquistando seu espaço e garantindo confiança de muitas empresas ao ponto delas apostarem na linguagem e modificar toda sua arquitetura.
 
 
 ## Objetivo
 
-Iremos criar uma aplicação bem simples de ser feita, porém com as funcionalidades de client-side e server-side usando apenas JavaScript como linguagem de programação. A ideia é criar um carrinho de compras com JavaScript.
+Iremos criar uma aplicação bem simples de ser feita e com as funcionalidades de client-side e server-side usando apenas JavaScript como linguagem de programação. A ideia é criar um carrinho de compras com JavaScript.
 
 
 ## O projeto
@@ -31,7 +31,7 @@ Iremos criar uma aplicação bem simples de ser feita, porém com as funcionalid
 
 ## O Stack (estrutura do projeto)
 
-Este repositório serve, justamente, para manter um padrão de estrutura durante todo o workshop, até mesmo para facilitar em comunicação entre os alunos e auxiliar nas dicas e orientacões da aplicação. O stack é bem simples e composto de pastas e arquivos necessários para começar na aplicação.
+Este repositório serve, justamente, para manter um padrão de estrutura durante todo o workshop, até mesmo para facilitar uma comunicação entre os alunos e auxiliar nas dicas e orientacões da aplicação. O stack é bem simples e composto de pastas e arquivos necessários para começar na aplicação.
 
 * /controller - local de seus controllers da aplicação, pois o react nao é MVC
 
