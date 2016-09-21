@@ -2,7 +2,7 @@
 
 > MERN - MongoDB - Express - ReactJS - NodeJS
 
-É um workshop que estou propondo a todos aqueles que ainda não tem experiências com aplicações, totalmente, focadas em JavaScript. 
+É um workshop (nice) que estou propondo a todos aqueles que ainda não tem experiências com aplicações, totalmente, focadas em JavaScript. 
 
 Você já deve ter vivenciado ou já ouviu falar de diversas aplicações usando PHP, Python, Java, Ruby e etc. E o JavaScript vem conquistando seu espaço e garantindo confiança de muitas empresas ao ponto delas apostarem na linguagem e modificar toda sua arquitetura.
 
